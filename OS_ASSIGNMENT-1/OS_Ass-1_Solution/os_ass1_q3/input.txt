@@ -1,0 +1,7 @@
+1 2 product
+35 20 compare
+17 23 xor
+5 9 compare
+69 32 xor
+2 4 xor
+9 2 product
